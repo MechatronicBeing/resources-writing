@@ -1,4 +1,4 @@
-Free "public-domain"-like licensed resources for writing. for writing.
+Free "public-domain"-like licensed resources for WRITING.
 
 ## Licenses
 - **Main content** : [Creative Commons CC0 Public Domain Dedication](LICENSE) *(unless otherwise stated)*
